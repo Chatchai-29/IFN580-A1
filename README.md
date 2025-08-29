@@ -1,4 +1,5 @@
 # IFN580 A1 — Team Setup (Short README)
+# Workflow clone project → checkout branch → edit Jupyter → commit/push → PR
 
 > Goal: everyone runs the *same* environment and workflow. Keep this repo **private**.
 
@@ -16,7 +17,7 @@ IFN580-A1/
 ├─ .gitignore
 └─ README.md
 
-## 1) Environment (once per machine)
+## 1 Environment (once per machine)
 - Install **Anaconda** (Python 3.12+).
 - If `environment.yml` exists:
 ```bash
