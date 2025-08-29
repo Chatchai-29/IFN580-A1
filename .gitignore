@@ -1,0 +1,16 @@
+# DOO NOT push kick.csv to git << place data file in the same folder as their laptop on their own computer instead.
+# data & big files
+data/
+*.csv
+*.xlsx
+
+# notebooks cache
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# figures
+figures/
