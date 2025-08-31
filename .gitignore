@@ -1,1 +1,15 @@
+# DO NOT push datasets; keep them local
+data/
+*.csv
+*.xlsx
+
+# Notebooks cache
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS/editor junk
 .DS_Store
+Thumbs.db
+
+# Figures
+figures/
