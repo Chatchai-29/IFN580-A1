@@ -1,10 +1,9 @@
-# DOO NOT push kick.csv to git << place data file in the same folder as their laptop on their own computer instead.
-# data & big files
+# DO NOT push datasets; keep them local
 data/
 *.csv
 *.xlsx
 
-# notebooks cache
+# Notebooks cache
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
@@ -12,5 +11,5 @@ data/
 .DS_Store
 Thumbs.db
 
-# figures
+# Figures
 figures/
